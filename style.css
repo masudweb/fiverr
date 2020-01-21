@@ -1,0 +1,164 @@
+/*global*/
+
+
+p{
+    
+    padding-bottom: 27px;
+    color: #777;
+    font-family: 'Baskervville', serif;
+
+}
+img{
+    width: 100%;
+}
+li{
+    list-style: none;
+}
+a {
+    color: #777;
+    text-decoration: none;
+    transition: .5s;
+  
+}
+
+
+/*
+==============================
+        header Start
+==============================
+*/
+header{
+
+border-bottom: 1px solid #dedede;
+
+}
+
+.top-part {
+
+}
+.top-part h2 span{
+	font-weight: bold;
+}
+.top-part h2 a{
+
+	font-size: 11px;
+	color: #1A965C !important;
+	margin-top: -100px !important;
+}
+.top-part h2 a:hover{
+	
+	text-decoration: none;
+}
+
+
+.navbar-nav{
+
+
+    
+}
+.navbar-nav li{
+    transition: all .5s ;
+    
+}
+.navbar-nav li a{
+border-bottom: 3px solid transparent;
+padding: 15px 10px;
+display:block;   
+}
+.navbar-nav li a:hover{
+   color: #777;
+    text-decoration: none;
+}
+.navbar-nav li:hover a{
+    border-bottom: 3px solid #29792c;
+}
+
+/*
+==============================
+        header End
+==============================
+*/
+
+
+/*
+==============================
+        Banner Start
+==============================
+*/
+
+
+.side-nav ul{
+    padding: 10px;
+}
+.side-nav ul li{
+    padding-bottom: 10px;
+}
+.side-nav ul li:first-child{
+    padding-bottom: 15px;
+   color: black;
+   font-weight: bold;
+}
+.side-nav ul li a{
+	transition: all .5s ease;
+}
+.side-nav ul li:hover a{
+	color: #000;
+   text-decoration: underline;
+}
+
+
+.single-gig{
+ 
+   transition: all .5s;
+   margin-bottom: 15px;
+}
+.single-gig img{
+
+    border-radius: 4px;
+    
+}
+.single-gig:hover img{
+    opacity: .7;
+    
+}
+.single-gig h6{
+
+    padding: 10px 0;
+}
+.single-gig a:hover{
+	color: #000;
+    text-decoration: none;
+}
+/*
+==============================
+        Banner End
+==============================
+*/
+
+/*
+==============================
+        Footer Start
+==============================
+*/
+footer{
+
+background: #F0F0F0;
+}
+.footer-part{
+   
+    padding: 40px;
+}
+.footer-part h3{
+    color: #000000cc;
+}
+.footer-part h3 span{
+   font-weight: bold;     
+}
+.footer-part p{
+    
+font-size: 17px;
+}
+/*
+==============================
+        Footer End
+==============================
